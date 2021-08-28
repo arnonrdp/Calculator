@@ -15,6 +15,16 @@ export default {
 </script>
 
 <style>
+@font-face {
+	font-family: "RobotoMono";
+	src: url("./fonts/RobotoMono-Thin.ttf");
+}
+* {
+	font-family: "RobotoMono", monospace;
+}
+body {
+	margin: 0;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

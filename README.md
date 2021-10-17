@@ -1,4 +1,6 @@
-# calculator
+# Calculator
+
+![Main Screen](/src/assets/screen.png)
 
 ## Project setup
 ```
